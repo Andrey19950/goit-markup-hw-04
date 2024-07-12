@@ -146,8 +146,8 @@ a {
   color: #404bbf;
 }
 
-.main-container {
-  width: 1440рх;
+.main {
+  max-width: 1440рх;
   padding: 188px 0 188px;
   margin: 0 auto;
 
